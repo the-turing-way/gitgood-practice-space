@@ -12,7 +12,7 @@
 
 1. 
 2. 
-3. Alice Huang: https://www.cercmetabolismbrain.ca/
+3. 
 4. 
 5. Caroline, my [Linkedin]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/caroline-landelle-a65032104/))
 6. zhengze
@@ -22,7 +22,7 @@
 10. 
 11. Marie P - https://www.linkedin.com/in/marie-poirot-07089a146/ 
 12. 
-13. 
+13. Amanda R - https://www.linkedin.com/in/amanda-rande/
 14. 
 15. 
 16. 
