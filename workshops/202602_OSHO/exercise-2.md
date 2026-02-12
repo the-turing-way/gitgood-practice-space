@@ -10,7 +10,7 @@
 
 ## Participant PRs
 
-1. 
+1. Cass GvP, here is my [LinkedIn](https://www.linkedin.com/in/cassandra-gould-van-praag-b8292a16/)
 2. 
 3. 
 4. 
