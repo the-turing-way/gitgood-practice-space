@@ -95,6 +95,9 @@ Added a new line :D
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/cassgvp"><img src="https://avatars.githubusercontent.com/u/43407869?v=4?s=100" width="100px;" alt="Cassandra Gould van Praag"/><br /><sub><b>Cassandra Gould van Praag</b></sub></a><br /><a href="#doc-cassgvp" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.turing.ac.uk/people/research-associates/emma-karoune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt="Emma Karoune"/><br /><sub><b>Emma Karoune</b></sub></a><br /><a href="#review-EKaroune" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/luizavolpi"><img src="https://avatars.githubusercontent.com/u/47429982?v=4?s=100" width="100px;" alt="Luiza Volpi"/><br /><sub><b>Luiza Volpi</b></sub></a><br /><a href="#tutorial-luizavolpi" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/navidbeta"><img src="https://avatars.githubusercontent.com/u/29827256?v=4?s=100" width="100px;" alt="Navid Ghassemi"/><br /><sub><b>Navid Ghassemi</b></sub></a><br /><a href="#tutorial-navidbeta" title="Tutorials">✅</a></td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/zhengzejiang"><img src="https://avatars.githubusercontent.com/u/218391239?v=4?s=100" width="100px;" alt="zhengzejiang"/><br /><sub><b>zhengzejiang</b></sub></a><br /><a href="#tutorial-zhengzejiang" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
