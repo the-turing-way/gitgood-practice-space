@@ -13,7 +13,7 @@
 1. 
 2. 
 3. Alice Huang: https://www.cercmetabolismbrain.ca/
-4. 
+4. Natalia
 5. Caroline, my [Linkedin](https://www.linkedin.com/in/caroline-landelle-a65032104/)
 6. zhengze
 7. Navid, 12/Feb/2026, [My LinkedIn](https://www.linkedin.com/in/navid-ghassemi-687384b5/)
@@ -22,7 +22,7 @@
 10. 
 11. Marie P - https://www.linkedin.com/in/marie-poirot-07089a146/ 
 12. 
-13. 
+13. Amanda R - https://www.linkedin.com/in/amanda-rande/
 14. 
 15. 
 16. 
@@ -37,7 +37,7 @@
 25. 
 26. 
 27. 
-28. 
+28. Luiza Volpi 12-02-2026 
 29. 
 30. 
 31. 
