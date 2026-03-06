@@ -31,6 +31,15 @@ The content of these workshops has evolved over the years, but the overall objec
 - Part 4: What can we make with Github? (Websites and Project Management)
 - Exercise 3 (take home): Make your own website
 
+### Usage for trainers
+Guide for running the training as per the [February 2026 OSHO workshop]((https://github.com/the-turing-way/gitgood/tree/main/workshops/202602_OSHO):
+1. A minimum of 2 trainers are required, with one person allocated to merging PRs of Exercise 2;
+1. Set up a new issue for Exercise 1 (commenting on an issue) using the issue template "✅ Check-in Exercise";
+1. Run the training as per the slides, ensuring breaks and discussion;
+1. Create a new issue for recognising contributions participants of Exercise 1 and Exercise 2 using all contributors (see [issue #15](https://github.com/the-turing-way/gitgood-practice-space/issues/15) for an example);
+1. Close the exercise and all-contibutors issues once complete.
+
+
 ## The Team
 
 - **Members:** These materials are managed by the [TTW Workshop Facilitators GitHub Team](https://github.com/orgs/the-turing-way/teams/workshop-facilitators)
