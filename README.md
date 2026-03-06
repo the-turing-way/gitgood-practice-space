@@ -99,6 +99,7 @@ Added a new line :D
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/navidbeta"><img src="https://avatars.githubusercontent.com/u/29827256?v=4?s=100" width="100px;" alt="Navid Ghassemi"/><br /><sub><b>Navid Ghassemi</b></sub></a><br /><a href="#tutorial-navidbeta" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/casillia"><img src="https://avatars.githubusercontent.com/u/5304153?v=4?s=100" width="100px;" alt="casillia"/><br /><sub><b>casillia</b></sub></a><br /><a href="#tutorial-casillia" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/luisa-pimentel"><img src="https://avatars.githubusercontent.com/u/159038806?v=4?s=100" width="100px;" alt="luisa-pimentel"/><br /><sub><b>luisa-pimentel</b></sub></a><br /><a href="#tutorial-luisa-pimentel" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/rkolsen22"><img src="https://avatars.githubusercontent.com/u/142261734?v=4?s=100" width="100px;" alt="rkolsen22"/><br /><sub><b>rkolsen22</b></sub></a><br /><a href="#tutorial-rkolsen22" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/uzcanata"><img src="https://avatars.githubusercontent.com/u/250377342?v=4?s=100" width="100px;" alt="uzcanata"/><br /><sub><b>uzcanata</b></sub></a><br /><a href="#tutorial-uzcanata" title="Tutorials">✅</a></td>
