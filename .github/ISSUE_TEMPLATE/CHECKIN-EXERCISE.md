@@ -1,6 +1,6 @@
 ---
 name: "\u2728 Check-in Exercise"
-about: [Workshop name and date] - Exercise 1: Check in
+about: "[Workshop name and date] - Exercise 1 Check in"
 title:
 labels:
 assignees: ''
