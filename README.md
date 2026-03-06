@@ -90,6 +90,7 @@ Added a new line :D
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/cassgvp"><img src="https://avatars.githubusercontent.com/u/43407869?v=4?s=100" width="100px;" alt="Cassandra Gould van Praag"/><br /><sub><b>Cassandra Gould van Praag</b></sub></a><br /><a href="#doc-cassgvp" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.turing.ac.uk/people/research-associates/emma-karoune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt="Emma Karoune"/><br /><sub><b>Emma Karoune</b></sub></a><br /><a href="#review-EKaroune" title="Reviewed Pull Requests">👀</a></td>
     </tr>
   </tbody>
 </table>
