@@ -100,6 +100,7 @@ Added a new line :D
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/navidbeta"><img src="https://avatars.githubusercontent.com/u/29827256?v=4?s=100" width="100px;" alt="Navid Ghassemi"/><br /><sub><b>Navid Ghassemi</b></sub></a><br /><a href="#tutorial-navidbeta" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/luisa-pimentel"><img src="https://avatars.githubusercontent.com/u/159038806?v=4?s=100" width="100px;" alt="luisa-pimentel"/><br /><sub><b>luisa-pimentel</b></sub></a><br /><a href="#tutorial-luisa-pimentel" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/rkolsen22"><img src="https://avatars.githubusercontent.com/u/142261734?v=4?s=100" width="100px;" alt="rkolsen22"/><br /><sub><b>rkolsen22</b></sub></a><br /><a href="#tutorial-rkolsen22" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/zhengzejiang"><img src="https://avatars.githubusercontent.com/u/218391239?v=4?s=100" width="100px;" alt="zhengzejiang"/><br /><sub><b>zhengzejiang</b></sub></a><br /><a href="#tutorial-zhengzejiang" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
